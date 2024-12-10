@@ -1,2 +1,2 @@
 # android-ionic-apps-practices-basics
-android-ionic-apps-practices-basics [ basic for awareness ]
+android-ionic-apps-practices-basics [ basic for awareness -for self]
