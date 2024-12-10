@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@ionic-native/file": "^5.36.0",
+    "@ionic-native/image-picker": "^5.36.0",
+    "@ionic-native/media": "^5.36.0",
+    "@ionic-native/media-capture": "^5.36.0",
+    "@ionic-native/photo-viewer": "^5.36.0",
+    "@ionic-native/streaming-media": "^5.36.0"
+  }
+}
